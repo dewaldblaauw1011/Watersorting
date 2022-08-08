@@ -1,4 +1,4 @@
-# Watersorting
+# Watersorting DEVELOPMENT
 This is my watersort puzzle game repository for Dewald Blaauw
 
 ## Watersorting  
